@@ -1,4 +1,4 @@
-bio-inspired-splicing-infrastructure/
+bio_inspired_information_processing_infrastructure/
 │
 ├── README.md
 ├── LICENSE
