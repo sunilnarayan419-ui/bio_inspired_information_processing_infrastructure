@@ -1,0 +1,52 @@
+MIT License
+
+Copyright (c) 2026 Sunil Narayan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+RESEARCH AND SCIENTIFIC ATTRIBUTION NOTICE
+
+This repository contains research-oriented documentation and computational
+work inspired by scientific literature concerning alternative pre-mRNA
+splicing, molecular biology, distributed systems, fault tolerance,
+information processing, and related fields.
+
+The MIT License applies to the original software code authored as part of
+this project. It does not grant rights to third-party publications,
+datasets, figures, scientific content, trademarks, or other materials that
+may be referenced, cited, linked, or incorporated into the repository.
+
+Third-party materials remain subject to their respective licenses,
+copyrights, and terms of use.
+
+Scientific claims, interpretations, and mechanisms discussed in the
+documentation should be evaluated against their cited primary literature
+and authoritative sources. Citation of this repository does not imply
+endorsement by the authors of the cited scientific works.
+
+This project is an engineering research project inspired by biological
+mechanisms. It does not claim that the implemented computational
+architecture is biologically equivalent to molecular alternative splicing,
+nor that the software reproduces the molecular mechanism of the
+spliceosome.
+
+Users are responsible for independently verifying scientific claims and
+for complying with the licenses and terms applicable to any third-party
+materials used with, derived from, or distributed alongside this project.
